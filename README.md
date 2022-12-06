@@ -3,10 +3,6 @@
 Sub-Scan is A Multi-Threaded Script Written In Python, It Discovers Subdomains From A Site Using A Wordlist That Is Supplied to It.
 
 
-## Screenshots
-
-![Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
 
 ## Installation
 
