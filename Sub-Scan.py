@@ -2,7 +2,7 @@ import requests #Module to Request Website
 import argparse #Module to Parse Arguments
 import threading #Module for multi-threading
 
-
+# This Script Is Made For Educational Purposes
 #Creating a Parser
 parser = argparse.ArgumentParser()
 
