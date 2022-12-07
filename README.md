@@ -48,7 +48,9 @@ Options         descrption
 - [@M3hank](https://www.github.com/M3hank)
 
 
-
+##Credits
+Wordlist Credits
+-[Seclists](https://www.github.com/danielmiessler/SecLists)
 ## Contributing
 
 Contributions are always welcome!
