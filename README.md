@@ -18,6 +18,7 @@ Sub-Scan Requires Following Modules
 `argparse`
 `threading`
 `requests`
+`Queue`
 
 
 ## Usage
